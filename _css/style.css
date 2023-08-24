@@ -1,0 +1,58 @@
+nav#menu ul{
+    text-transform: uppercase;
+    list-style: none;
+    position: absolute;
+    top: 50px;
+    left: 800px;
+}
+nav#menu li{
+    display:inline-block;
+    background-color: #ffffff;
+    padding: 15px;
+}
+nav#menu h1{
+    display: none;
+}
+body{
+    background-color: rgb(255, 255, 255);
+    margin: 0px;
+}
+header{
+    background-color: rgb(0, 0, 0);
+    padding-top: 120px;
+    margin: 0px;
+    position: relative;
+    top: -10px;
+}
+img{
+    max-width: 300px;
+    border-radius: 5%;
+}
+nav#menu a:link{
+    text-decoration: none;
+    color: black;
+    font-family: verdana;
+    font-weight: bold;
+}
+nav#menu a:visited{
+    color: black;
+
+}
+nav#menu a:hover{
+    color:rgb(126, 126, 126);
+    transition: all 0.6s ease;
+}
+h1{
+    font-family: verdana;
+}
+
+h2{
+    font-family: verdana;
+}
+
+h3{
+    font-family: verdana;
+}
+h4{
+    font-family: verdana;
+}
